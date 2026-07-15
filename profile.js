@@ -45,6 +45,14 @@ const studentProfile = {
     {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/haneendaneenomer/1446653"
+    },
+    {
+      title: "Finding Patterns with Heatmaps (Python)",
+      url: "http://rpubs.com/haneendaneenomer/1446657"
+    },
+    {
+      title: "Exploring TCGA Breast Cancer Clinical Data",
+      url: "http://rpubs.com/haneendaneenomer/1447210"
     }
   ],
 
@@ -55,7 +63,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "I'm doing two final projects. I will create a classroom lesson (a presentation, mainly) to teach students about cancer biology, as well as a patient-friendly infographic that explains a cancer topic, such as cancer genomics or precision medicine, in a clear and accessible way. My goal is to make complex scientific concepts easier to understand for both students and patients.",
     url: ""
   },
 
