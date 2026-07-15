@@ -15,7 +15,8 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "Hi! I'm a rising junior at the Southern School of Energy and Sustainability in Durham, North Carolina. In the future, I hope to work in education and wildlife rescue because I enjoy teaching others and caring for animals. Although those are my long-term goals, I'm also fascinated by biology and excited to learn how computational biology can help researchers better understand diseases like cancer. Through DREAM-High, I hope to gain experience analyzing biological data and explore how science and technology can be used to solve real-world problems, for both humans and animals.
+",
 
   /*
   Optional photo:
